@@ -1,2 +1,1 @@
-# thuhuong
-thuhuong
+# sinhduong.github.io
